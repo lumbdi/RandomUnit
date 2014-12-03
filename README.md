@@ -6,9 +6,9 @@ Custom game inside Dota 2. Spawn as a random unit kill as many as possible. My f
 Description: Each player is given a random unit. If your unit kills another unit gain a point. If your unit dies spawn a new random unit. Winner is decided by most kills.
 Additional information:
 
-Chance of spawning a level 2 unit is higher than spawning a level 1/3 unit.
-Map is small and simple. May have cliffs, trees and teleporters
-Map is always lit.
+Chance of spawning a level 2 unit is higher than spawning a level 1/3 unit.  
+Map is small and simple. May have cliffs, trees and teleporters  
+Map is always lit.  
 Teleporters teleports you from one end to another
 Runes may spawn which gives you haste, regeneration or one powerful attack (first right click from you does 9999 damage).
 Trees are scattered far from each other (relevant for Tiny)
