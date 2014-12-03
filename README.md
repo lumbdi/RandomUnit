@@ -37,3 +37,5 @@ Level 3:
 Tiny: Slow movement speed, slow attack speed, high turn rate. Can one-hit all Level 1 units, most level 2 units. Kills Level 3 units in a few hits, can eat tree to gain cleave for 3 hits, large collision size (trapping units possible)  
 Broodmother: has passive that places a buff on enemy unit. If enemy unit die under buff spawn a spiderling.  
 Priority low: For now only implement Sniper.  
+
+BMD's barebones were used: https://github.com/bmddota/barebones
